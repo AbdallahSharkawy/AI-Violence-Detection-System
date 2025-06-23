@@ -1,8 +1,7 @@
-# AI-Violence-Detection-System
+# 🚀 AI-Violence-Detection-System
 
 AI-powered real-time violence detection system for surveillance videos using deep learning and computer vision.
 
-# 🚀 Smart Surveillance & AI-Powered Threat Detection System
 
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Python](https://img.shields.io/badge/Python-3.9+-yellow.svg)
@@ -64,7 +63,7 @@ The system is designed with a multi-tiered architecture to ensure modularity, sc
 | **AI/ML Models**          | `MobileNetV2`, `BiLSTM`, `YOLOv8`, `DeepSORT`           |
 | **Training & Deployment** | `Google Colab`, `Hugging Face Hub`, `Docker (Optional)` |
 
----
+
 
 ## ⚙️ Setup and Installation
 
@@ -73,33 +72,33 @@ To run the system locally, you need to set up the AI Service and the Frontend Ap
 ### 1. AI Service (Flask API)
 
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/andrew-atef/AI-Violence-Detection-System.git
 cd AI-Violence-Detection-System
 
-# Create and activate a virtual environment (recommended)
+## Create and activate a virtual environment (recommended)
 python -m venv venv
 # On Windows: venv\Scripts\activate
 # On macOS/Linux: source venv/bin/activate
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# NOTE: Ensure the trained model (.keras file) is available in the correct path.
+## NOTE: Ensure the trained model (.keras file) is available in the correct path.
 # The script may download it from Hugging Face Hub if configured.
 
-# Run the Flask server
+## Run the Flask server
 python flask_app.py
 
 
-# Clone the frontend repository
+## Clone the frontend repository
 git clone https://github.com/AndrewSherif0/Violence-Detection-System.githup.io.git
 cd Violence-Detection-System.githup.io
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start the application
+## Start the application
 npm start
 
 
@@ -119,12 +118,12 @@ Commit your Changes (git commit -m 'Add some AmazingFeature').
 Push to the Branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
-👥 Project Team
-Abdallah Ashraf Abdallah - 20210541
-Andrew Atef Shukrallah - 20210191
-Andrew Sherif Shokry - 20210190
-Alaa Hesham Mamdouh - 20210173
-Zeina Samer Wagdy - 20210390
-Supervised by
-Dr. Hala
+## 👥 Project Team
+### Abdallah Ashraf Abdallah - 20210541
+### Andrew Atef Shukrallah - 20210191
+### Andrew Sherif Shokry - 20210190
+### Alaa Hesham Mamdouh - 20210173
+### Zeina Samer Wagdy - 20210390
+##Supervised by
+### Dr. Hala
 ```
