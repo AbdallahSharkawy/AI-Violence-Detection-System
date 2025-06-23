@@ -72,7 +72,7 @@ To run the system locally, you need to set up the AI Service and the Frontend Ap
 
 ### 1. AI Service (Flask API)
 
-```bash
+
 # Clone the repository
 git clone https://github.com/andrew-atef/AI-Violence-Detection-System.git
 cd AI-Violence-Detection-System
